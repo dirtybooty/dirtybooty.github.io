@@ -7,5 +7,5 @@ Twitter_username: allen
 GitHub_username: dirtybooty
 
 # Build settings
-Markdown: kramdown
+Markdown: hacker
 Theme: hacker
